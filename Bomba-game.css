@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #question-container {
+    margin-top: 50px;
+  }
+  
+  #options-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #options-list li {
+    display: inline-block;
+    margin: 5px;
+  }
+  
+  #submit-btn {
+    padding: 10px 20px;
+    margin-top: 10px;
+  }
+  
+  #result-container {
+    margin-top: 20px;
+  }
+  
